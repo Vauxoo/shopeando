@@ -1,0 +1,4 @@
+[submodule "shopeando"]
+	path = shopeando
+	url = git@git.vauxoo.com:vauxoo/shopeando.git
+	branch = 12.0
