@@ -10,3 +10,11 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 12.0
+[submodule "madkting"]
+	path = madkting
+	url = git@bitbucket.org:madkting/odoo_module.git
+	branch = 12.0
+[submodule "connector"]
+	path = connector
+	url = git@github.com:OCA/connector.git
+	branch = 12.0
