@@ -12,7 +12,7 @@
 	branch = 12.0
 [submodule "madkting"]
 	path = madkting
-	url = git@bitbucket.org:madkting/odoo_module.git
+	url = https://bitbucket.org/madkting/odoo_module.git
 	branch = 12.0
 [submodule "connector"]
 	path = connector
